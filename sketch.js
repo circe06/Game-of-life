@@ -109,8 +109,7 @@ class CA {
 			let col = lerpColor(from, to, amt);
 
 			//let col=color(this.strength);
-		//	fill(col);
-			
+                	fill(col);
 			this.strength -= 5;
 
 			//ellipse(p, q, spacer, spacer);
